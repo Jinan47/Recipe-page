@@ -89,7 +89,7 @@ ul li::before {
   font-size: 1.2em;
   display: inline-block;
   vertical-align: middle;
-  width: 0.5em; /* optional: helps align text */
+  width: 0.5em;
 }
 .ingredients li::marker {
   color: hsl(14, 45%, 36%);
